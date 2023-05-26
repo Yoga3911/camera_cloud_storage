@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918573195031",
+    "project_id": "camera-cloud-storage",
+    "storage_bucket": "camera-cloud-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918573195031:android:89152d14c6416665de2152",
+        "android_client_info": {
+          "package_name": "com.example.camera_cloud_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCts76jNzaXMVNHx4x3ck-q350PfieAnog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
